@@ -1,0 +1,1 @@
+class Order(val food: Array<Food>, val drink: Array<Drink>)
